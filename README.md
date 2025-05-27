@@ -3,7 +3,7 @@
 
 Arraste o botão abaixo para a barra de favoritos do seu navegador para criar o bookmarklet:
 
-[Spotify Popup 🎵] (javascript:(function(){window.open('https://open.spotify.com','SpotifyPopup','width=400,height=600,top=100,left=100');})())
+[Spotify Popup 🎵] javascript:(function(){  window.open('https://open.spotify.com', 'SpotifyPopup', 'width=400,height=600,top=100,left=100');})();
 
 > **Como usar:**  
 > 1. Arraste o link acima para a barra de favoritos do seu navegador.  
