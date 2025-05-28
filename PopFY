@@ -1,0 +1,1 @@
+javascript:(function(){  window.open('https://open.spotify.com', 'SpotifyPopup', 'width=400,height=600,top=100,left=100');})();
